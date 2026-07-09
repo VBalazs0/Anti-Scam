@@ -17,6 +17,10 @@ Automatically detects and removes scam images in Discord servers using perceptua
   - `bot` + `applications.commands` scopes enabled
   - Privileged Gateway Intents: **Message Content Intent** enabled
 
+## Try the hosted bot
+
+[Invite AntiScam to your server](https://discord.com/api/oauth2/authorize?client_id=1524791325847851119&permissions=1099511753734&scope=bot+applications.commands) — no hosting required, just authorize and run `/setup`.
+
 ## Installation
 
 ### Windows
